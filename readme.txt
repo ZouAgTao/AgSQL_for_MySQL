@@ -1,0 +1,1 @@
+再重新构建之前，请将本目录下的【libs】下的【mysql-connector-java-8.0.13.jar】（MySQL的Connector文件）和【beautyeye_lnf.jar】（美化UI库）通过外部JAR库的形式，导入到编译路径中，否则直运行是连接不到mysql的。
